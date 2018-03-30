@@ -1,7 +1,7 @@
 gofi
 ============
 
-*A lightweight, raspberry-pi friendly controller for Ubiquity Access Points*
+*A lightweight, raspberry-pi friendly controller for Ubiquiti Access Points*
 
 Go-fi is easy to build and deploy, providing basic network management
 features with very tiny CPU/Memory/Disk requirements.
